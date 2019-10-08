@@ -40,6 +40,9 @@ A tweet-sized debugger for visualizing your CSS layouts. Outlines every DOM elem
 ### [Yahoo! debugCSS](https://github.com/yahoo/debugCSS)
 debugCSS is meant to be loaded on an existing page to highlight potentially broken, malformed or legacy (X)HTML.
 
+### [Pixel Measurement](javascript:function%20fnStartDesign(sUrl)%20%7Bvar%20nScript%20=%20document.createElement('script');nScript.setAttribute('language','JavaScript');nScript.setAttribute('src',sUrl);document.body.appendChild(nScript);%7DfnStartDesign('http://www.sprymedia.co.uk/design/design/media/js/design-loader.js');)
+This tool allows you to see pixel measurements on the screen of your browser
+
 ## Fonts
 ### [FFFFALLBACK](http://ffffallback.com/)
 Web fonts are here, sparking an exciting new era in web design. FFFFALLBACK makes it easy to find the perfect fallback fonts, so that your designs degrade gracefully.
